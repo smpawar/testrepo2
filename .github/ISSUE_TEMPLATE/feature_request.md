@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: ENH 01
 title: ''
 labels: ''
 assignees: ''
