@@ -2,7 +2,7 @@
 name: BUG
 about: File Bug
 title: BUG
-labels: ''
+labels: bug
 assignees: ''
 
 ---

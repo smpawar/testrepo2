@@ -2,7 +2,7 @@
 name: Enhancement Request
 about: ENH
 title: ''
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
