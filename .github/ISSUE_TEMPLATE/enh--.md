@@ -1,7 +1,7 @@
 ---
 name: 'ENH: '
 about: Enhancement Request
-title: ''
+title: ENH
 labels: enhancement
 assignees: ''
 
