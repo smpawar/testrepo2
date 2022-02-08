@@ -1,5 +1,5 @@
 ---
-name: Enhancement Request
+name: ENH
 about: 'ENH: '
 title: ''
 labels: enhancement

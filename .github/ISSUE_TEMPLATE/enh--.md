@@ -1,6 +1,6 @@
 ---
-name: Enhancement Request
-about: 'ENH: '
+name: 'ENH: '
+about: Enhancement Request
 title: ''
 labels: enhancement
 assignees: ''
