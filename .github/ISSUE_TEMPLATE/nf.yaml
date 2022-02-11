@@ -30,16 +30,16 @@ body:
     id: version
     attributes:
       label: Version
-      description: What version of our software are you running?
+      description: What version of Optimus Prime are you running?
       options:
         - 1.0.2
-        - 1.0.3 (Edge)
+        - 1.0.3 
     validations:
       required: true
   - type: dropdown
     id: browsers
     attributes:
-      label: What browsers are you seeing the problem on?
+      label: What database version you want to run it against?
       multiple: true
       options:
         - 10g
@@ -47,6 +47,7 @@ body:
         - 12c
         - 19c
         - 21c
+        - All DB versions
   - type: textarea
     id: logs
     attributes:
