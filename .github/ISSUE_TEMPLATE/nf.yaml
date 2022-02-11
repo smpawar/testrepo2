@@ -1,0 +1,55 @@
+name: New Feature
+description: New Feature Request
+title: "[NF]: "
+labels: ["new feature", "triage"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this new feature request!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: Please explain the requirement
+    attributes:
+      label: Why is it required?
+      description: What is current version unable to do?
+      placeholder: Tell us what you see!
+      value: "It will help!"
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: What version of Optimus Prime are you running?
+      options:
+        - 1.0.2 
+        - 1.0.3 
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What database version would you like to run it against  ?
+      multiple: true
+      options:
+        - 11.2.0.4
+        - 12.1.0.2
+        - 12.2.0.1
+        - 19c
+        - 21c
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant example 
+      description: Please share ideally ,  what the new feature would look like in the end.
+      render: shell
