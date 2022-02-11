@@ -23,7 +23,7 @@ body:
       label: Documentation change request Details?
       description: What do you want to change?
       placeholder: Tell us what you see!
-      value: "  "
+      value: "Change "
     validations:
       required: true
   - type: dropdown
