@@ -1,7 +1,7 @@
-name: New Feature
-description: New Feature Request
-title: "[NF]: "
-labels: ["newfeature", "triage"]
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug", "triage"]
 assignees:
   - octocat
 body:
