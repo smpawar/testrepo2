@@ -1,7 +1,7 @@
 name: New Feature
 description: New Feature Request
 title: "[NF]: "
-labels: ["new feature", "triage"]
+labels: ["newfeature", "triage"]
 assignees:
   - octocat
 body:
