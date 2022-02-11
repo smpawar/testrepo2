@@ -42,14 +42,13 @@ body:
       label: What database version would you like to run it against  ?
       multiple: true
       options:
-        - 11.2.0.4
-        - 12.1.0.2
-        - 12.2.0.1
+        - 11g
+        - 12c
         - 19c
         - 21c
   - type: textarea
     id: logs
     attributes:
       label: Relevant example 
-      description: Please share ideally ,  what the new feature would look like in the end.
+      description: Please share ideally , what the new feature would look like in the end.
       render: shell
