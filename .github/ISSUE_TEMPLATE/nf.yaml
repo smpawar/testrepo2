@@ -1,7 +1,7 @@
 name: New Feature
 description: File a New Feature Request
-title: "[Bug]: "
-labels: ["bug", "triage"]
+title: "[NF]: "
+labels: ["NF", "triage"]
 assignees:
   - octocat
 body:
