@@ -1,5 +1,5 @@
-name: Test Report
-description: File a bug report
+name: New Feature
+description: File a New Feature Request
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
