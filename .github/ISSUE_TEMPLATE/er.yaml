@@ -1,6 +1,6 @@
 name: Enhancement Request
 description: File an enhancement request
-title: "[ER]: "
+title: ":sparkles: ER: "
 labels: ["type: enhancement"]
 assignees:
   - octocat
