@@ -1,6 +1,6 @@
 name: New Feature
 description: File a New Feature Request
-title: "[NF]: "
+title: ":boom: NF: "
 labels: ["type: enhancement"]
 assignees:
   - octocat
