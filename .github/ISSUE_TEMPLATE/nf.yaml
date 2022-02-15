@@ -1,6 +1,6 @@
 name: New Feature
 description: File a New Feature Request
-title: ":boom: NF: "
+title: ":sparkles: NF: "
 labels: ["type: enhancement"]
 assignees:
   - octocat
