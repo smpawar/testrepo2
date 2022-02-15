@@ -1,7 +1,7 @@
 name: Bug
 description: File a bug report
 title: ":bug: Bug : "
-labels: ["type: bug"]
+labels: ["type: bug", "priority:0"]
 assignees:
   - octocat
 body:
@@ -46,7 +46,6 @@ body:
         - priority:1
         - priority:2
         - priority:3
-      labels: ["priority:3"]
     validations:
       required: true
   - type: dropdown
