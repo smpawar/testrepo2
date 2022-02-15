@@ -46,6 +46,7 @@ body:
         - priority:1
         - priority:2
         - priority:3
+          labels: ["priority:3"]
     validations:
       required: true
   - type: dropdown
