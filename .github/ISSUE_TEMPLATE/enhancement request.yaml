@@ -1,6 +1,6 @@
 name: "\U00002747 Enhancement Request"
 description: File an enhancement request
-title: "\U00002747: ER: "
+title: "\U00002747 ER: "
 labels: ["type: enhancement"]
 assignees:
   - octocat
