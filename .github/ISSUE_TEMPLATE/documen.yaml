@@ -1,6 +1,6 @@
 name: Documentation
 description: Improve Documentation
-title: "[DOC]: "
+title: ":memo: DOC: "
 labels: ["type: documentation"]
 assignees:
   - octocat
