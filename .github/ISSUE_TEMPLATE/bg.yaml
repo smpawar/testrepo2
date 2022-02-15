@@ -1,7 +1,7 @@
 name: Bug
 description: File a bug report
 title: ":bug: Bug : "
-labels: ["type: bug", "priority:0"]
+labels: ["type: bug","priority:3"]
 assignees:
   - octocat
 body:
