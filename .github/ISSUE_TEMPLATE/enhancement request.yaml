@@ -3,7 +3,7 @@ description: File an enhancement request
 title: "ER: "
 labels: ["enhancement"]
 assignees:
-  - octocat
+  - smpawar
 body:
   - type: markdown
     attributes:
