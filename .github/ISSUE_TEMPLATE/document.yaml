@@ -3,7 +3,7 @@ description: Improve Documentation
 title: "Doc: "
 labels: ["documentation"]
 assignees:
-  - octocat
+  - smpawar
 body:
   - type: markdown
     attributes:
