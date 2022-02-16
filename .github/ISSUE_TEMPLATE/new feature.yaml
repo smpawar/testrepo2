@@ -15,7 +15,7 @@ body:
       label: The expected benefit
       description: Why current version is insufficent.
       placeholder: Tell us what you see!
-      value: "A bug happened!"
+      value: " "
     validations:
       required: true
   - type: dropdown
