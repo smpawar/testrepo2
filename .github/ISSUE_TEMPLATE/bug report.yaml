@@ -44,7 +44,6 @@ body:
     id: oracledbversion
     attributes:
       label: What oracle database version are you seeing the problem on?
-      multiple: true
       options:
         - 12c and above
         - 11g or below
