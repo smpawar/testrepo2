@@ -3,7 +3,7 @@ description: File a New Feature Request
 title: "NF: "
 labels: ["new feature"]
 assignees:
-  - octocat
+  - smpawar
 body:
   - type: markdown
     attributes:
