@@ -1,6 +1,6 @@
 name: "\U0001F4DD Documentation"
 description: Improve Documentation
-title: "Doc: "
+title: "DOC: "
 labels: ["documentation"]
 assignees:
   - smpawar
