@@ -15,7 +15,7 @@ body:
       label: Enhancement Request Details
       description: Description
       placeholder: Tell us what you see!
-      value: "As a CE I want to "
+      value: "As a end user I want to "
     validations:
       required: true
   - type: dropdown
