@@ -9,19 +9,11 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this enhancement request!
-  - type: input
-    id: contact
-    attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
   - type: textarea
     id: what-happened
     attributes:
-      label: Enhancement Request Details?
-      description: Also tell us, what did you expect to happen?
+      label: Enhancement Request Details
+      description: Description
       placeholder: Tell us what you see!
       value: "As a CE I want to "
     validations:
@@ -30,22 +22,18 @@ body:
     id: version
     attributes:
       label: Version
-      description: What version of our software are you running?
+      description: What version of optimus prime software are you running?
       options:
         - 1.0.2 (Default)
         - 1.0.3 (Edge)
-    validations:
-      required: true
   - type: dropdown
-    id: browsers
+    id: oracledbversion
     attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
+      label: What oracle database version are you seeing the problem on?
       options:
-        - 11g
-        - 12c
-        - 19c
-        - all DB versions
+        - 12c and above
+        - 11g or below
+        - All
   - type: textarea
     id: logs
     attributes:
