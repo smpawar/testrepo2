@@ -1,6 +1,6 @@
 name: "\U00002728 New Feature"
 description: File a New Feature Request
-title: ":sparkles: NF: "
+title: "NF: "
 labels: ["new feature"]
 assignees:
   - octocat
