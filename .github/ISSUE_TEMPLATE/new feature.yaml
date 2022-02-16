@@ -34,20 +34,14 @@ body:
       options:
         - 1.0.2
         - 1.0.3 
-    validations:
-      required: true
   - type: dropdown
-    id: browsers
+    id: oracledbversion
     attributes:
-      label: What database version you want to run it against?
-      multiple: true
+      label: What oracle database version are you seeing the problem on?
       options:
-        - 10g
-        - 11g
-        - 12c
-        - 19c
-        - 21c
-        - All DB versions
+        - 12c and above
+        - 11g or below
+        - All
   - type: textarea
     id: logs
     attributes:
