@@ -3,7 +3,7 @@ description: File a bug report
 title: "Bug : "
 labels: ["bug,priority:0"]
 assignees:
-  - octocat
+  - smpawar
 body:
   - type: markdown
     attributes:
