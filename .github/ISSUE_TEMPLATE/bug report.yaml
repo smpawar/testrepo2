@@ -19,7 +19,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: description
+    id: whenbug
     attributes:
       label: When do you see the bug
       description: Dont forget to remove any sensitive data
