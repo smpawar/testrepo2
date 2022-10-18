@@ -22,17 +22,19 @@ body:
     id: version
     attributes:
       label: Version
-      description: What version of optimus prime software are you running?
+      description: What version of Waverunner code are you running?
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+        - latest code
+        - other
+    validations:
+      required: false
   - type: dropdown
     id: oracledbversion
     attributes:
-      label: What oracle database version are you seeing the problem on?
+      label: What database engine is this documentation change for?
       options:
-        - 12c and above
-        - 11g or below
+        - CloudSQL
+        - Oracle
         - All
   - type: textarea
     id: logs
